@@ -1,3 +1,3 @@
 # timeSeriesForecastSales
 
-Forecast sales using time series data from a store in Equador. Methods used include Moving Average and Linear Regression
+The dataset contains consecutive transactions from January 1, 2013 to August 15, 2017. The transactions are from the Favorita stores located in Ecuador.
